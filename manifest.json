@@ -4246,5 +4246,2435 @@
   "model": "iPhone 17 Pro Max",
   "colour": "lilac",
   "path": "ridge/iphone-17-pro-max/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22",
+  "colour": "black",
+  "path": "aero/galaxy-s22/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s22/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s22/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22",
+  "colour": "lilac",
+  "path": "aero/galaxy-s22/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22",
+  "colour": "moss",
+  "path": "aero/galaxy-s22/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22",
+  "colour": "sage",
+  "path": "aero/galaxy-s22/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s22/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s22/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22",
+  "colour": "cream",
+  "path": "aero/galaxy-s22/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22+",
+  "colour": "black",
+  "path": "aero/galaxy-s22-plus/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22+",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s22-plus/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22+",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s22-plus/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22+",
+  "colour": "lilac",
+  "path": "aero/galaxy-s22-plus/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22+",
+  "colour": "moss",
+  "path": "aero/galaxy-s22-plus/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22+",
+  "colour": "sage",
+  "path": "aero/galaxy-s22-plus/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22+",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s22-plus/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22+",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s22-plus/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22+",
+  "colour": "cream",
+  "path": "aero/galaxy-s22-plus/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22 Ultra",
+  "colour": "black",
+  "path": "aero/galaxy-s22-ultra/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22 Ultra",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s22-ultra/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22 Ultra",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s22-ultra/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22 Ultra",
+  "colour": "lilac",
+  "path": "aero/galaxy-s22-ultra/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22 Ultra",
+  "colour": "moss",
+  "path": "aero/galaxy-s22-ultra/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22 Ultra",
+  "colour": "sage",
+  "path": "aero/galaxy-s22-ultra/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22 Ultra",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s22-ultra/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22 Ultra",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s22-ultra/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S22 Ultra",
+  "colour": "cream",
+  "path": "aero/galaxy-s22-ultra/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23",
+  "colour": "black",
+  "path": "aero/galaxy-s23/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s23/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s23/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23",
+  "colour": "lilac",
+  "path": "aero/galaxy-s23/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23",
+  "colour": "moss",
+  "path": "aero/galaxy-s23/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23",
+  "colour": "sage",
+  "path": "aero/galaxy-s23/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s23/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s23/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23",
+  "colour": "cream",
+  "path": "aero/galaxy-s23/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23+",
+  "colour": "black",
+  "path": "aero/galaxy-s23-plus/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23+",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s23-plus/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23+",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s23-plus/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23+",
+  "colour": "lilac",
+  "path": "aero/galaxy-s23-plus/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23+",
+  "colour": "moss",
+  "path": "aero/galaxy-s23-plus/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23+",
+  "colour": "sage",
+  "path": "aero/galaxy-s23-plus/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23+",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s23-plus/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23+",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s23-plus/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23+",
+  "colour": "cream",
+  "path": "aero/galaxy-s23-plus/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23 Ultra",
+  "colour": "black",
+  "path": "aero/galaxy-s23-ultra/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23 Ultra",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s23-ultra/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23 Ultra",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s23-ultra/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23 Ultra",
+  "colour": "lilac",
+  "path": "aero/galaxy-s23-ultra/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23 Ultra",
+  "colour": "moss",
+  "path": "aero/galaxy-s23-ultra/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23 Ultra",
+  "colour": "sage",
+  "path": "aero/galaxy-s23-ultra/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23 Ultra",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s23-ultra/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23 Ultra",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s23-ultra/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S23 Ultra",
+  "colour": "cream",
+  "path": "aero/galaxy-s23-ultra/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24",
+  "colour": "black",
+  "path": "aero/galaxy-s24/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s24/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s24/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24",
+  "colour": "lilac",
+  "path": "aero/galaxy-s24/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24",
+  "colour": "moss",
+  "path": "aero/galaxy-s24/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24",
+  "colour": "sage",
+  "path": "aero/galaxy-s24/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s24/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s24/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24",
+  "colour": "cream",
+  "path": "aero/galaxy-s24/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24+",
+  "colour": "black",
+  "path": "aero/galaxy-s24-plus/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24+",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s24-plus/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24+",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s24-plus/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24+",
+  "colour": "lilac",
+  "path": "aero/galaxy-s24-plus/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24+",
+  "colour": "moss",
+  "path": "aero/galaxy-s24-plus/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24+",
+  "colour": "sage",
+  "path": "aero/galaxy-s24-plus/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24+",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s24-plus/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24+",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s24-plus/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24+",
+  "colour": "cream",
+  "path": "aero/galaxy-s24-plus/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24 Ultra",
+  "colour": "black",
+  "path": "aero/galaxy-s24-ultra/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24 Ultra",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s24-ultra/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24 Ultra",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s24-ultra/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24 Ultra",
+  "colour": "lilac",
+  "path": "aero/galaxy-s24-ultra/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24 Ultra",
+  "colour": "moss",
+  "path": "aero/galaxy-s24-ultra/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24 Ultra",
+  "colour": "sage",
+  "path": "aero/galaxy-s24-ultra/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24 Ultra",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s24-ultra/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24 Ultra",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s24-ultra/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S24 Ultra",
+  "colour": "cream",
+  "path": "aero/galaxy-s24-ultra/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25",
+  "colour": "black",
+  "path": "aero/galaxy-s25/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s25/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s25/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25",
+  "colour": "lilac",
+  "path": "aero/galaxy-s25/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25",
+  "colour": "moss",
+  "path": "aero/galaxy-s25/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25",
+  "colour": "sage",
+  "path": "aero/galaxy-s25/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s25/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s25/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25",
+  "colour": "cream",
+  "path": "aero/galaxy-s25/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25+",
+  "colour": "black",
+  "path": "aero/galaxy-s25-plus/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25+",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s25-plus/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25+",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s25-plus/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25+",
+  "colour": "lilac",
+  "path": "aero/galaxy-s25-plus/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25+",
+  "colour": "moss",
+  "path": "aero/galaxy-s25-plus/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25+",
+  "colour": "sage",
+  "path": "aero/galaxy-s25-plus/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25+",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s25-plus/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25+",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s25-plus/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25+",
+  "colour": "cream",
+  "path": "aero/galaxy-s25-plus/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25 Ultra",
+  "colour": "black",
+  "path": "aero/galaxy-s25-ultra/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25 Ultra",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s25-ultra/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25 Ultra",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s25-ultra/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25 Ultra",
+  "colour": "lilac",
+  "path": "aero/galaxy-s25-ultra/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25 Ultra",
+  "colour": "moss",
+  "path": "aero/galaxy-s25-ultra/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25 Ultra",
+  "colour": "sage",
+  "path": "aero/galaxy-s25-ultra/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25 Ultra",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s25-ultra/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25 Ultra",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s25-ultra/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S25 Ultra",
+  "colour": "cream",
+  "path": "aero/galaxy-s25-ultra/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26",
+  "colour": "black",
+  "path": "aero/galaxy-s26/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s26/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s26/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26",
+  "colour": "lilac",
+  "path": "aero/galaxy-s26/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26",
+  "colour": "moss",
+  "path": "aero/galaxy-s26/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26",
+  "colour": "sage",
+  "path": "aero/galaxy-s26/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s26/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s26/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26",
+  "colour": "cream",
+  "path": "aero/galaxy-s26/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26+",
+  "colour": "black",
+  "path": "aero/galaxy-s26-plus/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26+",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s26-plus/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26+",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s26-plus/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26+",
+  "colour": "lilac",
+  "path": "aero/galaxy-s26-plus/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26+",
+  "colour": "moss",
+  "path": "aero/galaxy-s26-plus/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26+",
+  "colour": "sage",
+  "path": "aero/galaxy-s26-plus/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26+",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s26-plus/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26+",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s26-plus/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26+",
+  "colour": "cream",
+  "path": "aero/galaxy-s26-plus/cream.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26 Ultra",
+  "colour": "black",
+  "path": "aero/galaxy-s26-ultra/black.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26 Ultra",
+  "colour": "blush-pink",
+  "path": "aero/galaxy-s26-ultra/blush-pink.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26 Ultra",
+  "colour": "cherry-red",
+  "path": "aero/galaxy-s26-ultra/cherry-red.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26 Ultra",
+  "colour": "lilac",
+  "path": "aero/galaxy-s26-ultra/lilac.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26 Ultra",
+  "colour": "moss",
+  "path": "aero/galaxy-s26-ultra/moss.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26 Ultra",
+  "colour": "sage",
+  "path": "aero/galaxy-s26-ultra/sage.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26 Ultra",
+  "colour": "sky-blue",
+  "path": "aero/galaxy-s26-ultra/sky-blue.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26 Ultra",
+  "colour": "butter-yellow",
+  "path": "aero/galaxy-s26-ultra/butter-yellow.webp"
+ },
+ {
+  "line": "aero",
+  "model": "Galaxy S26 Ultra",
+  "colour": "cream",
+  "path": "aero/galaxy-s26-ultra/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22",
+  "colour": "black",
+  "path": "ridge/galaxy-s22/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s22/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s22/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s22/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22",
+  "colour": "cream",
+  "path": "ridge/galaxy-s22/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s22/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22",
+  "colour": "sage",
+  "path": "ridge/galaxy-s22/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s22/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s22/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22+",
+  "colour": "black",
+  "path": "ridge/galaxy-s22-plus/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22+",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s22-plus/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22+",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s22-plus/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22+",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s22-plus/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22+",
+  "colour": "cream",
+  "path": "ridge/galaxy-s22-plus/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22+",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s22-plus/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22+",
+  "colour": "sage",
+  "path": "ridge/galaxy-s22-plus/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22+",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s22-plus/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22+",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s22-plus/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22 Ultra",
+  "colour": "black",
+  "path": "ridge/galaxy-s22-ultra/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22 Ultra",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s22-ultra/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22 Ultra",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s22-ultra/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22 Ultra",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s22-ultra/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22 Ultra",
+  "colour": "cream",
+  "path": "ridge/galaxy-s22-ultra/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22 Ultra",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s22-ultra/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22 Ultra",
+  "colour": "sage",
+  "path": "ridge/galaxy-s22-ultra/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22 Ultra",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s22-ultra/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S22 Ultra",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s22-ultra/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23",
+  "colour": "black",
+  "path": "ridge/galaxy-s23/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s23/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s23/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s23/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23",
+  "colour": "cream",
+  "path": "ridge/galaxy-s23/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s23/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23",
+  "colour": "sage",
+  "path": "ridge/galaxy-s23/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s23/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s23/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23+",
+  "colour": "black",
+  "path": "ridge/galaxy-s23-plus/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23+",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s23-plus/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23+",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s23-plus/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23+",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s23-plus/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23+",
+  "colour": "cream",
+  "path": "ridge/galaxy-s23-plus/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23+",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s23-plus/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23+",
+  "colour": "sage",
+  "path": "ridge/galaxy-s23-plus/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23+",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s23-plus/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23+",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s23-plus/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23 Ultra",
+  "colour": "black",
+  "path": "ridge/galaxy-s23-ultra/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23 Ultra",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s23-ultra/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23 Ultra",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s23-ultra/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23 Ultra",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s23-ultra/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23 Ultra",
+  "colour": "cream",
+  "path": "ridge/galaxy-s23-ultra/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23 Ultra",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s23-ultra/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23 Ultra",
+  "colour": "sage",
+  "path": "ridge/galaxy-s23-ultra/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23 Ultra",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s23-ultra/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S23 Ultra",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s23-ultra/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24",
+  "colour": "black",
+  "path": "ridge/galaxy-s24/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s24/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s24/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s24/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24",
+  "colour": "cream",
+  "path": "ridge/galaxy-s24/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s24/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24",
+  "colour": "sage",
+  "path": "ridge/galaxy-s24/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s24/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s24/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24+",
+  "colour": "black",
+  "path": "ridge/galaxy-s24-plus/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24+",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s24-plus/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24+",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s24-plus/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24+",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s24-plus/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24+",
+  "colour": "cream",
+  "path": "ridge/galaxy-s24-plus/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24+",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s24-plus/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24+",
+  "colour": "sage",
+  "path": "ridge/galaxy-s24-plus/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24+",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s24-plus/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24+",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s24-plus/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24 Ultra",
+  "colour": "black",
+  "path": "ridge/galaxy-s24-ultra/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24 Ultra",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s24-ultra/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24 Ultra",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s24-ultra/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24 Ultra",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s24-ultra/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24 Ultra",
+  "colour": "cream",
+  "path": "ridge/galaxy-s24-ultra/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24 Ultra",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s24-ultra/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24 Ultra",
+  "colour": "sage",
+  "path": "ridge/galaxy-s24-ultra/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24 Ultra",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s24-ultra/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S24 Ultra",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s24-ultra/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25",
+  "colour": "black",
+  "path": "ridge/galaxy-s25/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s25/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s25/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s25/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25",
+  "colour": "cream",
+  "path": "ridge/galaxy-s25/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s25/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25",
+  "colour": "sage",
+  "path": "ridge/galaxy-s25/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s25/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s25/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25+",
+  "colour": "black",
+  "path": "ridge/galaxy-s25-plus/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25+",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s25-plus/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25+",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s25-plus/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25+",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s25-plus/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25+",
+  "colour": "cream",
+  "path": "ridge/galaxy-s25-plus/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25+",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s25-plus/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25+",
+  "colour": "sage",
+  "path": "ridge/galaxy-s25-plus/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25+",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s25-plus/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25+",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s25-plus/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25 Ultra",
+  "colour": "black",
+  "path": "ridge/galaxy-s25-ultra/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25 Ultra",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s25-ultra/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25 Ultra",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s25-ultra/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25 Ultra",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s25-ultra/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25 Ultra",
+  "colour": "cream",
+  "path": "ridge/galaxy-s25-ultra/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25 Ultra",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s25-ultra/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25 Ultra",
+  "colour": "sage",
+  "path": "ridge/galaxy-s25-ultra/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25 Ultra",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s25-ultra/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S25 Ultra",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s25-ultra/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26",
+  "colour": "black",
+  "path": "ridge/galaxy-s26/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s26/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s26/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s26/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26",
+  "colour": "cream",
+  "path": "ridge/galaxy-s26/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s26/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26",
+  "colour": "sage",
+  "path": "ridge/galaxy-s26/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s26/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s26/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26+",
+  "colour": "black",
+  "path": "ridge/galaxy-s26-plus/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26+",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s26-plus/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26+",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s26-plus/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26+",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s26-plus/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26+",
+  "colour": "cream",
+  "path": "ridge/galaxy-s26-plus/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26+",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s26-plus/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26+",
+  "colour": "sage",
+  "path": "ridge/galaxy-s26-plus/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26+",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s26-plus/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26+",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s26-plus/lilac.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26 Ultra",
+  "colour": "black",
+  "path": "ridge/galaxy-s26-ultra/black.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26 Ultra",
+  "colour": "blush-pink",
+  "path": "ridge/galaxy-s26-ultra/blush-pink.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26 Ultra",
+  "colour": "butter-yellow",
+  "path": "ridge/galaxy-s26-ultra/butter-yellow.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26 Ultra",
+  "colour": "cherry-red",
+  "path": "ridge/galaxy-s26-ultra/cherry-red.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26 Ultra",
+  "colour": "cream",
+  "path": "ridge/galaxy-s26-ultra/cream.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26 Ultra",
+  "colour": "mocha",
+  "path": "ridge/galaxy-s26-ultra/mocha.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26 Ultra",
+  "colour": "sage",
+  "path": "ridge/galaxy-s26-ultra/sage.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26 Ultra",
+  "colour": "sky-blue",
+  "path": "ridge/galaxy-s26-ultra/sky-blue.webp"
+ },
+ {
+  "line": "ridge",
+  "model": "Galaxy S26 Ultra",
+  "colour": "lilac",
+  "path": "ridge/galaxy-s26-ultra/lilac.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s22/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22",
+  "colour": "blue",
+  "path": "trail/galaxy-s22/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22",
+  "colour": "copper",
+  "path": "trail/galaxy-s22/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22",
+  "colour": "gold",
+  "path": "trail/galaxy-s22/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22",
+  "colour": "green",
+  "path": "trail/galaxy-s22/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22",
+  "colour": "holo",
+  "path": "trail/galaxy-s22/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22",
+  "colour": "purple",
+  "path": "trail/galaxy-s22/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22",
+  "colour": "silver",
+  "path": "trail/galaxy-s22/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s22/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22+",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s22-plus/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22+",
+  "colour": "blue",
+  "path": "trail/galaxy-s22-plus/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22+",
+  "colour": "copper",
+  "path": "trail/galaxy-s22-plus/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22+",
+  "colour": "gold",
+  "path": "trail/galaxy-s22-plus/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22+",
+  "colour": "green",
+  "path": "trail/galaxy-s22-plus/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22+",
+  "colour": "holo",
+  "path": "trail/galaxy-s22-plus/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22+",
+  "colour": "purple",
+  "path": "trail/galaxy-s22-plus/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22+",
+  "colour": "silver",
+  "path": "trail/galaxy-s22-plus/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22+",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s22-plus/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22 Ultra",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s22-ultra/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22 Ultra",
+  "colour": "blue",
+  "path": "trail/galaxy-s22-ultra/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22 Ultra",
+  "colour": "copper",
+  "path": "trail/galaxy-s22-ultra/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22 Ultra",
+  "colour": "gold",
+  "path": "trail/galaxy-s22-ultra/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22 Ultra",
+  "colour": "green",
+  "path": "trail/galaxy-s22-ultra/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22 Ultra",
+  "colour": "holo",
+  "path": "trail/galaxy-s22-ultra/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22 Ultra",
+  "colour": "purple",
+  "path": "trail/galaxy-s22-ultra/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22 Ultra",
+  "colour": "silver",
+  "path": "trail/galaxy-s22-ultra/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S22 Ultra",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s22-ultra/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s23/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23",
+  "colour": "blue",
+  "path": "trail/galaxy-s23/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23",
+  "colour": "copper",
+  "path": "trail/galaxy-s23/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23",
+  "colour": "gold",
+  "path": "trail/galaxy-s23/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23",
+  "colour": "green",
+  "path": "trail/galaxy-s23/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23",
+  "colour": "holo",
+  "path": "trail/galaxy-s23/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23",
+  "colour": "purple",
+  "path": "trail/galaxy-s23/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23",
+  "colour": "silver",
+  "path": "trail/galaxy-s23/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s23/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23+",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s23-plus/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23+",
+  "colour": "blue",
+  "path": "trail/galaxy-s23-plus/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23+",
+  "colour": "copper",
+  "path": "trail/galaxy-s23-plus/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23+",
+  "colour": "gold",
+  "path": "trail/galaxy-s23-plus/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23+",
+  "colour": "green",
+  "path": "trail/galaxy-s23-plus/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23+",
+  "colour": "holo",
+  "path": "trail/galaxy-s23-plus/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23+",
+  "colour": "purple",
+  "path": "trail/galaxy-s23-plus/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23+",
+  "colour": "silver",
+  "path": "trail/galaxy-s23-plus/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23+",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s23-plus/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23 Ultra",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s23-ultra/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23 Ultra",
+  "colour": "blue",
+  "path": "trail/galaxy-s23-ultra/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23 Ultra",
+  "colour": "copper",
+  "path": "trail/galaxy-s23-ultra/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23 Ultra",
+  "colour": "gold",
+  "path": "trail/galaxy-s23-ultra/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23 Ultra",
+  "colour": "green",
+  "path": "trail/galaxy-s23-ultra/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23 Ultra",
+  "colour": "holo",
+  "path": "trail/galaxy-s23-ultra/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23 Ultra",
+  "colour": "purple",
+  "path": "trail/galaxy-s23-ultra/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23 Ultra",
+  "colour": "silver",
+  "path": "trail/galaxy-s23-ultra/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S23 Ultra",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s23-ultra/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s24/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24",
+  "colour": "blue",
+  "path": "trail/galaxy-s24/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24",
+  "colour": "copper",
+  "path": "trail/galaxy-s24/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24",
+  "colour": "gold",
+  "path": "trail/galaxy-s24/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24",
+  "colour": "green",
+  "path": "trail/galaxy-s24/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24",
+  "colour": "holo",
+  "path": "trail/galaxy-s24/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24",
+  "colour": "purple",
+  "path": "trail/galaxy-s24/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24",
+  "colour": "silver",
+  "path": "trail/galaxy-s24/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s24/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24+",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s24-plus/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24+",
+  "colour": "blue",
+  "path": "trail/galaxy-s24-plus/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24+",
+  "colour": "copper",
+  "path": "trail/galaxy-s24-plus/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24+",
+  "colour": "gold",
+  "path": "trail/galaxy-s24-plus/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24+",
+  "colour": "green",
+  "path": "trail/galaxy-s24-plus/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24+",
+  "colour": "holo",
+  "path": "trail/galaxy-s24-plus/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24+",
+  "colour": "purple",
+  "path": "trail/galaxy-s24-plus/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24+",
+  "colour": "silver",
+  "path": "trail/galaxy-s24-plus/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24+",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s24-plus/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24 Ultra",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s24-ultra/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24 Ultra",
+  "colour": "blue",
+  "path": "trail/galaxy-s24-ultra/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24 Ultra",
+  "colour": "copper",
+  "path": "trail/galaxy-s24-ultra/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24 Ultra",
+  "colour": "gold",
+  "path": "trail/galaxy-s24-ultra/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24 Ultra",
+  "colour": "green",
+  "path": "trail/galaxy-s24-ultra/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24 Ultra",
+  "colour": "holo",
+  "path": "trail/galaxy-s24-ultra/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24 Ultra",
+  "colour": "purple",
+  "path": "trail/galaxy-s24-ultra/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24 Ultra",
+  "colour": "silver",
+  "path": "trail/galaxy-s24-ultra/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S24 Ultra",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s24-ultra/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s25/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25",
+  "colour": "blue",
+  "path": "trail/galaxy-s25/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25",
+  "colour": "copper",
+  "path": "trail/galaxy-s25/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25",
+  "colour": "gold",
+  "path": "trail/galaxy-s25/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25",
+  "colour": "green",
+  "path": "trail/galaxy-s25/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25",
+  "colour": "holo",
+  "path": "trail/galaxy-s25/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25",
+  "colour": "purple",
+  "path": "trail/galaxy-s25/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25",
+  "colour": "silver",
+  "path": "trail/galaxy-s25/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s25/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25+",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s25-plus/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25+",
+  "colour": "blue",
+  "path": "trail/galaxy-s25-plus/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25+",
+  "colour": "copper",
+  "path": "trail/galaxy-s25-plus/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25+",
+  "colour": "gold",
+  "path": "trail/galaxy-s25-plus/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25+",
+  "colour": "green",
+  "path": "trail/galaxy-s25-plus/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25+",
+  "colour": "holo",
+  "path": "trail/galaxy-s25-plus/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25+",
+  "colour": "purple",
+  "path": "trail/galaxy-s25-plus/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25+",
+  "colour": "silver",
+  "path": "trail/galaxy-s25-plus/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25+",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s25-plus/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25 Ultra",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s25-ultra/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25 Ultra",
+  "colour": "blue",
+  "path": "trail/galaxy-s25-ultra/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25 Ultra",
+  "colour": "copper",
+  "path": "trail/galaxy-s25-ultra/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25 Ultra",
+  "colour": "gold",
+  "path": "trail/galaxy-s25-ultra/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25 Ultra",
+  "colour": "green",
+  "path": "trail/galaxy-s25-ultra/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25 Ultra",
+  "colour": "holo",
+  "path": "trail/galaxy-s25-ultra/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25 Ultra",
+  "colour": "purple",
+  "path": "trail/galaxy-s25-ultra/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25 Ultra",
+  "colour": "silver",
+  "path": "trail/galaxy-s25-ultra/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S25 Ultra",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s25-ultra/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s26/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26",
+  "colour": "blue",
+  "path": "trail/galaxy-s26/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26",
+  "colour": "copper",
+  "path": "trail/galaxy-s26/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26",
+  "colour": "gold",
+  "path": "trail/galaxy-s26/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26",
+  "colour": "green",
+  "path": "trail/galaxy-s26/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26",
+  "colour": "holo",
+  "path": "trail/galaxy-s26/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26",
+  "colour": "purple",
+  "path": "trail/galaxy-s26/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26",
+  "colour": "silver",
+  "path": "trail/galaxy-s26/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s26/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26+",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s26-plus/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26+",
+  "colour": "blue",
+  "path": "trail/galaxy-s26-plus/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26+",
+  "colour": "copper",
+  "path": "trail/galaxy-s26-plus/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26+",
+  "colour": "gold",
+  "path": "trail/galaxy-s26-plus/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26+",
+  "colour": "green",
+  "path": "trail/galaxy-s26-plus/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26+",
+  "colour": "holo",
+  "path": "trail/galaxy-s26-plus/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26+",
+  "colour": "purple",
+  "path": "trail/galaxy-s26-plus/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26+",
+  "colour": "silver",
+  "path": "trail/galaxy-s26-plus/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26+",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s26-plus/rose-gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26 Ultra",
+  "colour": "black-chrome",
+  "path": "trail/galaxy-s26-ultra/black-chrome.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26 Ultra",
+  "colour": "blue",
+  "path": "trail/galaxy-s26-ultra/blue.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26 Ultra",
+  "colour": "copper",
+  "path": "trail/galaxy-s26-ultra/copper.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26 Ultra",
+  "colour": "gold",
+  "path": "trail/galaxy-s26-ultra/gold.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26 Ultra",
+  "colour": "green",
+  "path": "trail/galaxy-s26-ultra/green.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26 Ultra",
+  "colour": "holo",
+  "path": "trail/galaxy-s26-ultra/holo.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26 Ultra",
+  "colour": "purple",
+  "path": "trail/galaxy-s26-ultra/purple.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26 Ultra",
+  "colour": "silver",
+  "path": "trail/galaxy-s26-ultra/silver.webp"
+ },
+ {
+  "line": "trail",
+  "model": "Galaxy S26 Ultra",
+  "colour": "rose-gold",
+  "path": "trail/galaxy-s26-ultra/rose-gold.webp"
  }
 ]
