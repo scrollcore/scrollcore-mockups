@@ -1,5 +1,5 @@
 # Scrollcore mockup URL pattern
-BASE = https://cdn.jsdelivr.net/gh/scrollcore/scrollcore-mockups@v1
+BASE = https://cdn.jsdelivr.net/gh/scrollcore/scrollcore-mockups@v2
 URL  = {BASE}/{line}/{model-slug}/{colour}.webp
 line: aero | ridge | trail | lumen
 model-slug: lowercase, spaces->hyphens (iPhone 17 Pro Max -> iphone-17-pro-max)
